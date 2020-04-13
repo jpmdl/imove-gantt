@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/imove-gantt/static/js/main.01be3c2d.chunk.js",
+    "main.js.map": "/imove-gantt/static/js/main.01be3c2d.chunk.js.map",
+    "runtime-main.js": "/imove-gantt/static/js/runtime-main.f01a4716.js",
+    "runtime-main.js.map": "/imove-gantt/static/js/runtime-main.f01a4716.js.map",
+    "static/js/2.0cc397e1.chunk.js": "/imove-gantt/static/js/2.0cc397e1.chunk.js",
+    "static/js/2.0cc397e1.chunk.js.map": "/imove-gantt/static/js/2.0cc397e1.chunk.js.map",
+    "index.html": "/imove-gantt/index.html",
+    "precache-manifest.9730af1b202c91d597a1cdabb9bad57d.js": "/imove-gantt/precache-manifest.9730af1b202c91d597a1cdabb9bad57d.js",
+    "service-worker.js": "/imove-gantt/service-worker.js",
+    "static/js/2.0cc397e1.chunk.js.LICENSE.txt": "/imove-gantt/static/js/2.0cc397e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01a4716.js",
+    "static/js/2.0cc397e1.chunk.js",
+    "static/js/main.01be3c2d.chunk.js"
+  ]
+}
