@@ -1,7 +1,7 @@
 {
   "name": "gantt",
   "version": "0.1.0",
-  "homepage": "http://jpmdl.github.io/imove-gantt",
+  "homepage": "https://jpmdl.github.io/imove-gantt",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
